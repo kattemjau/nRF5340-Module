@@ -1,0 +1,5 @@
+Added Component: Designator=J?(2340901-1)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Schematic Member=Component J? TYPE-C-31-M-12
+Added Room: Name=Schematic
