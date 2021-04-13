@@ -1173,7 +1173,11 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=VDD_nRF|NetColor=$006EFF6E
+Net1=NetName=RESET|NetColor=$00FF6EFF
+Net2=NetName=SWDCLK|NetColor=$00FF6EFF
+Net3=NetName=SWDIO|NetColor=$00FF6EFF
+Net4=NetName=SWO|NetColor=$00FF6EFF
+Net5=NetName=VDD_nRF|NetColor=$006EFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
