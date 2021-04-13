@@ -1,0 +1,54 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Added Component: Designator=JTAG(HDR_2x5-SMD-1.27mm-K_2)
+Add component (AddParameter): Name = "Artikkelnr Noca"; Value = "55010009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Assembly"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Doc"; Value = "HDR_2x5-SMD-1.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\hizz\pro\app9717\Datasheet\connectores\W-CON\3132-XXMXXBK00XX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "2016-04-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "W-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3132-10MS0BK00R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "Pin Header 2x5 SMD, 1.27mm, KS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number IPS"; Value = "N.A."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2016-01-22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Cabcon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3132-10MS0BK00R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "FTSH-105-01-F-DV-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Pin Header 2x5, 1.27mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=JTAG-3
+Added Pin To Net: NetName=GND Pin=JTAG-3
+Added Pin To Net: NetName=GND Pin=JTAG-5
+Added Pin To Net: NetName=GND Pin=JTAG-5
+Added Pin To Net: NetName=GND Pin=JTAG-9
+Added Pin To Net: NetName=GND Pin=JTAG-9
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 255)
+Added Pin To Net: NetName=3V3 Pin=JTAG-1
+Added Pin To Net: NetName=3V3 Pin=JTAG-1
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetLabel160 Pin=JTAG-2
+Added Pin To Net: NetName=NetLabel160 Pin=JTAG-2
+Added Net: Name=NetLabel160
+Added Pin To Net: NetName=NetLabel161 Pin=JTAG-4
+Added Pin To Net: NetName=NetLabel161 Pin=JTAG-4
+Added Net: Name=NetLabel161
+Added Pin To Net: NetName=NetLabel162 Pin=JTAG-6
+Added Pin To Net: NetName=NetLabel162 Pin=JTAG-6
+Added Net: Name=NetLabel162
+Added Pin To Net: NetName=NetLabel163 Pin=JTAG-10
+Added Pin To Net: NetName=NetLabel163 Pin=JTAG-10
+Added Net: Name=NetLabel163
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=USB-C-4
+Added Net: Name=NetR2_1
+Added Member To Class: ClassName=Schematic Member=Component JTAG DNP
+Added Member To Class: ClassName=Schematic Member=Component R2 5.1K
