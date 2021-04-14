@@ -1155,7 +1155,12 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=3V3|NetColor=$006EFF6E
 Net2=NetName=GND|NetColor=$00FF6E6E
-Net3=NetName=VIN|NetColor=$00FFFF6E
+Net3=NetName=nRF_VDD|NetColor=$006EFF6E
+Net4=NetName=RESET|NetColor=$00FF6EFF
+Net5=NetName=SWDCLK|NetColor=$00FF6EFF
+Net6=NetName=SWDIO|NetColor=$00FF6EFF
+Net7=NetName=SWO|NetColor=$00FF6EFF
+Net8=NetName=VIN|NetColor=$00FFFF6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
