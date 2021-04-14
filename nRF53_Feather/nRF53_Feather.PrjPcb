@@ -210,6 +210,16 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LBUVYWBE
 
+[ProjectVariant1]
+UniqueID=089F6E10-3095-4AED-B133-5119A4D7F154
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=Feather|UniqueId=\PCLNKUDJ|Kind=1|AlternatePart= 
+Variation2=Designator=JTAG|UniqueId=\UDKSLCOA|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
