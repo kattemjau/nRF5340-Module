@@ -249,8 +249,10 @@ UniqueID=B587A704-934B-4C03-BC9B-E82D954B7D13
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
+VariationCount=3
 Variation1=Designator=nRF53-Module|UniqueId=\ZIMMDYBI|Kind=1|AlternatePart= 
+Variation2=Designator=C15|UniqueId=\WYRZGEGP|Kind=1|AlternatePart= 
+Variation3=Designator=C14|UniqueId=\CECQFFWZ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Configuration1]
