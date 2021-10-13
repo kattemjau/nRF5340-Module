@@ -41,142 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\Altium-Lib\MISC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MIPJPYEH
-
-[Document2]
-DocumentPath=..\..\Altium-Lib\Passives.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GHMYXDXV
-
-[Document3]
-DocumentPath=..\..\Altium-Lib\MCU.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SDMIDOGH
-
-[Document4]
-DocumentPath=..\..\Altium-Lib\Connector.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WCRBKUMI
-
-[Document5]
-DocumentPath=..\..\Altium-Lib\MCU.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=ZNIBULPQ
-
-[Document6]
-DocumentPath=..\..\Altium-Lib\MISC.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FFHDNUJL
-
-[Document7]
-DocumentPath=..\..\Altium-Lib\Passives.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FNINUHYY
-
-[Document8]
-DocumentPath=..\..\Altium-Lib\Connector.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CHUYCUKZ
-
-[Document9]
 DocumentPath=nRF53_Module.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SWNIVDJV
 
-[Document10]
+[Document2]
 DocumentPath=nRF53.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOMLWGSW
 
-[Document11]
+[Document3]
 DocumentPath=nRF5340_Module_Large.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document4]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,98 +119,6 @@ Variation2=Designator=C15|UniqueId=\WYRZGEGP|Kind=1|AlternatePart=
 Variation3=Designator=C14|UniqueId=\CECQFFWZ|Kind=1|AlternatePart= 
 Variation4=Designator=X3|UniqueId=\VFCWELVP|Kind=1|AlternatePart= 
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for nRF5340 Module\Design Rule Check - nRF53_Module.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module.REP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Mechanical_5.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Mechanical_7.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for nRF5340 Module\Pick Place for nRF53_Module(Default).csv
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for nRF5340 Module\Pick Place for nRF53_Module(Default).txt
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -467,7 +239,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PCL6 Driver for Universal Print
+TargetPrinter=Brother MFC-L2710DW series Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -702,6 +474,12 @@ OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=BOM_ReportCompare
+OutputName8=BOM Compare
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup7]
 Name=Other Outputs
