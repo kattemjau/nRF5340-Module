@@ -239,18 +239,10 @@ DocumentPath=Project Outputs for nRF5340 Module\nRF53_Module_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for nRF5340 Module\Pick Place for nRF53_Module(Default).csv
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for nRF5340 Module\Pick Place for nRF53_Module(Default).txt
-DItemRevisionGUID=
-
-[GeneratedDocument24]
 DocumentPath=Project Outputs for nRF5340 Module\Pick Place for nRF53_Module.csv
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for nRF5340 Module\Pick Place for nRF53_Module.txt
 DItemRevisionGUID=
 
